@@ -1,0 +1,21 @@
+
+Rango de Velocidad
+
+- Hombro lateral:     -1.95 <= vA[0] <= 1.95
+- Hombro vertical:    -1.95 <= vA[1] <= 1.95
+- Brazo superior:     -2.35 <= vA[2] <= 2.35
+- Codo del Brazo:     -2.35 <= vA[3] <= 2.35
+- Brazo inferior:     -1.95 <= vA[4] <= 1.95
+- Muñeca del Brazo:   -1.76 <= vA[5] <= 1.76
+- Rotor de Muñeca:    -1.76 <= vA[6] <= 1.76
+
+
+Rango de Posiciones:
+
+- Hombro lateral:      0.07 <= dA[0] <= 2.68
+- Hombro vertical:     -1.5 <= dA[1] <= 1.02
+- Brazo superior:     -3.46 <= dA[2] <= 1.5
+- Codo del Brazo:     -0.32 <= dA[3] <= 2.29
+- Brazo inferior:     -2.07 <= dA[4] <= 2.07
+- Muñeca del Brazo:   -1.39 <= dA[5] <= 1.39
+- Rotor de Muñeca:    -2.07 <= dA[6] <= 2.07
